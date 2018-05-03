@@ -1,7 +1,7 @@
 # Bayesian-Classifier
 Bayesian-Classifier algorithm
 
-"experiment report.pdf" is experimental report.
+"experiment report.pdf" is experiment report.
 "bayesian.py" is the python script of stage1.
 "bayesian_multi.py" is the python script of stage2,which finishs multiply classes and high dimension situation.
 
